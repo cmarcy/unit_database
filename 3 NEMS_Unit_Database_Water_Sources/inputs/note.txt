@@ -1,0 +1,5 @@
+NEMS to ReEDS Tech Mapping_default cts.xlsx 
+
+Confirm this with Stuart and Welsey and make it updated and use for defaulting cts
+
+By default, these scripts use proprietary Ventyx data for augmenting some of the FIPS mapping. I deleted these, and we can figure out a workaround if need be.

@@ -1,0 +1,35 @@
+﻿,once,recirc,dry,pond,none
+hydro,no,no,no,no,yes
+gas-CT,no,no ,no,no,yes
+gas-CC,yes,yes,yes,yes,no
+Gas-CC-CCS,no,yes,yes,no,no
+CoalOldScr,yes,yes,yes,yes,no
+CoalOldUns,yes,yes,yes,yes,no
+coal-new,yes,yes,yes,yes,no
+coal-IGCC,yes,yes,yes,yes,no
+coal-CCS,yes,yes,no,no,no
+o-g-s,yes,yes,yes,yes,no
+nuclear,yes,yes,no,yes,no
+geothermal,no,no,no,no,yes
+biopower,yes,yes,yes,yes,no
+CofireOld,yes,yes,yes,yes,no
+CofireNew,yes,yes,yes,yes,no
+lfill-gas,no,no,no,no,yes
+ocean,no,no,no,no,yes
+distPV,no,no,no,no,yes
+Gas-CT-NSP,no,no ,no,no,yes
+Gas-CC-NSP,yes,yes,yes,yes,no
+Coal-CCS-NSP,yes,yes,no,no,no
+Nuclear-NSP,yes,yes,no,yes,no
+csp-ns,no,yes,yes,no,no
+UPV,no,no,no,no,yes
+upv,no,no,no,no,yes
+wind-ons,no,no,no,no,yes
+wind-ofs,no,no,no,no,yes
+caes,no,no,no,no,yes
+unknown,no,no,no,no,yes
+others,no,no,no,no,yes
+battery,no,no,no,no,yes
+MHKwave,no,no,no,no,yes
+pumped-hydro,no,no,no,no,yes
+DUPV,no,no,no,no,yes
